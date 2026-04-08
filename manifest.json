@@ -1,0 +1,19 @@
+{
+  "name": "Fire Portals",
+  "short_name": "Fire Portals",
+  "theme_color": "",
+  "background_color": "#050912",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775648976-42545-0-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
